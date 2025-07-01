@@ -9,3 +9,13 @@ A fun, lightweight TypeScript CLI to generate simplified "QR-code-like" ASCII ar
 ```bash
 npm install
 ts-node ascii-qr-art.ts
+```
+
+# Example Output
+
+█████   ████    ███ 
+█   █   █   █   █ █ 
+█████   ████    ███ 
+█   █   █ █ █   █ █ 
+█████   ████    ███ 
+
