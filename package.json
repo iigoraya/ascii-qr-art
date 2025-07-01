@@ -1,0 +1,19 @@
+{
+  "name": "ascii-qr-art",
+  "version": "1.0.0",
+  "description": "A fun TypeScript CLI that generates simplified QR-code-like ASCII art from text.",
+  "main": "ascii-qr-art.ts",
+  "bin": {
+    "ascii-qr-art": "./ascii-qr-art.ts"
+  },
+  "scripts": {
+    "start": "ts-node ascii-qr-art.ts"
+  },
+  "author": "Ibrahim Iqbal",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.4.5"
+  }
+}
